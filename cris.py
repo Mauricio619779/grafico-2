@@ -19,3 +19,4 @@ plt.legend()
 
 # Mostramos el gráfico
 plt.show()
+#WENA CRIS TE AMO
